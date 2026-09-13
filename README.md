@@ -36,7 +36,7 @@ We use the *Smart Grid Stability Augmented Dataset* and apply multiple classifie
    - Classification Report (Precision, Recall, F1-score).
    - Heatmap visualization with `seaborn`.
      
- 6. ** 📊 Results
+ 6. **📊 Results**
 
     The stacked model achieved **very high accuracy**:
     - Training Accuracy:** 99.96%  
