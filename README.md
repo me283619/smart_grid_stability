@@ -38,9 +38,9 @@ We use the *Smart Grid Stability Augmented Dataset* and apply multiple classifie
      
  6. ** 📊 Results
 
-   The stacked model achieved **very high accuracy**:
-   - **Training Accuracy:** 99.96%  
-   - **Testing Accuracy:** 98.59%  
+    The stacked model achieved **very high accuracy**:
+    - **Training Accuracy:** 99.96%  
+    - **Testing Accuracy:** 98.59%  
 
 
 8. **Model Saving**
