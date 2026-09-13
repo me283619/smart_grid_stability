@@ -42,7 +42,7 @@ We use the *Smart Grid Stability Augmented Dataset* and apply multiple classifie
 - **Training Accuracy:** 99.96%  
  - **Testing Accuracy:** 98.59%  
 
-7. **Classification Report
+ ###Classification Report
 precision    recall  f1-score   support
 
 0       0.98      0.98      0.98      4344
