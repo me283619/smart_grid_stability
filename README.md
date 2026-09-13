@@ -36,24 +36,12 @@ We use the *Smart Grid Stability Augmented Dataset* and apply multiple classifie
    - Classification Report (Precision, Recall, F1-score).
    - Heatmap visualization with `seaborn`.
      
-6. ** 📊 Results
+ 6. ** 📊 Results
 
- The stacked model achieved **very high accuracy**:
-- **Training Accuracy:** 99.96%  
- - **Testing Accuracy:** 98.59%  
+   The stacked model achieved **very high accuracy**:
+   - **Training Accuracy:** 99.96%  
+   - **Testing Accuracy:** 98.59%  
 
- ##Classification Report
-- **precision    recall  f1-score   support
-
-0       0.98      0.98      0.98      4344
-1       0.99      0.99      0.99      7656
-
-accuracy                           0.99     12000
-macro avg       0.98      0.98      0.98     12000
-weighted avg       0.99      0.99      0.99     12000
-
-### Heatmap Visualization
-![Confusion Matrix Heatmap](confusion_matrix.png)
 
 8. **Model Saving**
    - Save final stacked model using `dill` into `final project.pkl`.
